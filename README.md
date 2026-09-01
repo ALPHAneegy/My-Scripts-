@@ -30,6 +30,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ALPHAneegy/muscleVoid
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ALPHAneegy/temp/refs/heads/main/newFG100.lua"))()
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ALPHAneegy/muscleVoid/refs/heads/main/voidHub.lua"))() 
+
 **Status:** Free
 **Key:** Not required
 **Updates:** Regularly updated
