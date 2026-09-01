@@ -14,8 +14,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ALPHAneegy/mlFullOP/r
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ALPHAneegy/temp/refs/heads/main/temp.lua"))() Lifting Monster (Got removed)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ALPHAneegy/8bit/refs/heads/main/main.lua"))() Rivals
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ALPHAneegy/rivalsPremuim/refs/heads/main/esp.lua"))() Universal Esp
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ALPHAneegy/mosterLifting/refs/heads/main/ml2.lua"))() Lifting Monster (Got removed)
